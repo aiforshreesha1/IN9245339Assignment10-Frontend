@@ -1,0 +1,7 @@
+# .gitignore
+node_modules
+.next
+.env
+.env.local
+build
+dist
